@@ -1,1 +1,0 @@
-# lagom-assignment1
